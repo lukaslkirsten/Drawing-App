@@ -1,6 +1,6 @@
 
 
-# My Countdown Timer
+# Drawing App
 
 Welcome! This project has been developed as a drawing app to improve my Javascript skills.
  
