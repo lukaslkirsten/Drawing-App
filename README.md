@@ -29,7 +29,7 @@ Welcome! This project has been developed as a drawing app to improve my Javascri
 ## Access here:
 
 
-#### Site: https://lukaslkirsten.github.io/Countdown-Timer/
+#### Site: https://lukaslkirsten.github.io/Drawing-App/
 
 
 
